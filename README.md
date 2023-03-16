@@ -40,7 +40,7 @@ Como desafio extra incentivamos vocês a deixar fluir sua criatividade, se posso
 
 :heavy_check_mark: Funcionalidade 1: No menu principal é possível escolher dois tipos de conversões, a primeira que é para converter um valor digitado em Reais e converte-lo para 10 tipos de moedas diferentes, a escolha das moedas foi com base no site [Planner](https://www.planner.com.br/2022/12/12/principais-moedas-do-mundo/);
 
-:heavy_check_mark: Funcionalidade 2: Também é possível escolher a opção de fazer conversões de temperatura de Celcius para outros dois tipos, sendo eles: Fahrenheit e Kelvin;
+:heavy_check_mark: Funcionalidade 2: Também é possível escolher a opção de fazer conversões de temperatura de Celcius para outros dois tipos, sendo eles: Fahrenheit e Kelvin.
 
 
 
