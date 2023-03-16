@@ -75,4 +75,8 @@ Como desafio extra incentivamos vocês a deixar fluir sua criatividade, se posso
 
 
 
+## Badge
+
+<img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd_Conversor/blob/master/img-badge/badge-conclusao-challenge-conversor.png>
+
 ​																												
