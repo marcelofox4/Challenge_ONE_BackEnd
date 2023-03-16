@@ -56,13 +56,15 @@ Como desafio extra incentivamos vocês a deixar fluir sua criatividade, se posso
 
 - Após o valor escolhido pelo usuário é possível fazer uma escolha dentre varias para a conversão de moedas, já na conversão de temperatura é possível escolher entre duas;
 
-<img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/04-tela-conversor-moeda-escolha.png> 
+<img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/04-tela-conversor-moeda-escolha.png> <img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/07-tela-conversor-temperatura-escolha.png>
 
 - É possível visualizar o resultado logo abaixo da caixa de opções;
 
 <img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/05-tela-conversor-moeda-resultado.png> <img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/08-tela-conversor-temperatura-resultado.png>
 
 - Caso o usuário digite valores não numéricos ou digite valores decimais que estejam separados por "**,**", a aplicação gerará uma Exception com uma mensagem, indicando o que ele deve fazer.
+
+<img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/09-tela-erro-digitacao.png>
 
 
 
