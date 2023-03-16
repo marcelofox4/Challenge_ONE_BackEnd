@@ -46,10 +46,23 @@ Como desafio extra incentivamos vocês a deixar fluir sua criatividade, se posso
 
 ## Layout da Aplicação 
 
-1. A primeira tela consiste no menu principal da aplicação, onde é possível escolher qual das conversões, moeda ou temperatura, o usuário deseja fazer.
-2. Dependendo da escolha, o usuário poderá digitar um valor, tanto para as conversões de moedas quanto de temperaturas;
-3. Após o valor escolhido pelo usuário é possível fazer uma escolha dentre varias para a conversão de moedas, já na conversão de temperatura é possível escolher entre duas;
-4. Caso o usuário digite valores não numéricos ou digite valores decimais que estejam separados por "**,**", a aplicação gerará uma Exception com uma mensagem, indicando o que ele deve fazer.
+- A primeira tela consiste no menu principal da aplicação, onde é possível escolher qual das conversões, moeda ou temperatura, o usuário deseja fazer.
+
+<img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/01-tela-principal.png> <img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/02-tela-principal-escolha-conversor.png>
+
+- Dependendo da escolha, o usuário poderá digitar um valor, tanto para as conversões de moedas quanto de temperaturas;
+
+<img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/03-tela-conversor-moedas-valor.png> <img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/06-tela-conversor-temperatura-valor.png>
+
+- Após o valor escolhido pelo usuário é possível fazer uma escolha dentre varias para a conversão de moedas, já na conversão de temperatura é possível escolher entre duas;
+
+<img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/04-tela-conversor-moeda-escolha.png> 
+
+- É possível visualizar o resultado logo abaixo da caixa de opções;
+
+<img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/05-tela-conversor-moeda-resultado.png> <img src=https://github.com/marcelofox4/Challenge_ONE_BackEnd/blob/master/img-telas-conversor/08-tela-conversor-temperatura-resultado.png>
+
+- Caso o usuário digite valores não numéricos ou digite valores decimais que estejam separados por "**,**", a aplicação gerará uma Exception com uma mensagem, indicando o que ele deve fazer.
 
 
 
